@@ -1,7 +1,8 @@
 # public-projects-list
 
 Past projects by sahwar:
-bulogos.info
+
+*bulogos.info*:
 * BLSG (Bulgarian-language Style * (&Formatting) Guide)
 * CBASTILS (Common Bulgarian Application-Software T10n (Translation), I18n (Internationalization), and L9n (Localization) [Text] Strings DB (database))
 * SLOVNIKari / DEXLEXERS / lexicografi.te / vsere4nik.bg / omnidictx.la
@@ -10,10 +11,10 @@ bulogos.info
 * otvorenishriftove-BG
 * etc.
 
-LSG (Light-Speed Generator)
+*LSG (Light-Speed Generator)*
 
-ULSU-EH-XC (Universal Life-Support Unit - for Earth(er) Humans - For EXtreme Conditions)
+*ULSU*-EH-XC (Universal Life-Support Unit - for Earth(er) Humans - For EXtreme Conditions)
 
-AEUFOAPMHT-DB (Aliens, Extraterrestrial, UFOs, Anomalous Phenomena, Materials, and High-Tech - DataBase)
+*AEUFOAPMHT-DB* (Aliens, Extraterrestrials, UFOs, Anomalous Phenomena, Materials, and High-Tech - DataBase of Classification Names List&Descriptions&Reports)
 
 Siddhis+-alchemy+-PrincipleOfAttraction --- personal research papers (private?)
