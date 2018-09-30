@@ -3,7 +3,8 @@
 Past projects by sahwar:
 
 *bulogos.info*:
-* BLSG (Bulgarian-language Style * (&Formatting) Guide)
+* BLSG (Bulgarian-language Style 
+(Formatting) Guide)
 * CBASTILS (Common Bulgarian Application-Software T10n (Translation), I18n (Internationalization), and L9n (Localization) [Text] Strings DB (database))
 * SLOVNIKari / DEXLEXERS / lexicografi.te / vsere4nik.bg / omnidictx.la
 * HUTPIB-BG (Help Us Translate (Application Software & PC/Video/Console Games) Programs Into Bulgarian - BG)
