@@ -17,7 +17,7 @@ Past projects by sahwar:
 
 *ULSU*-EH-XC (Universal Life-Support Unit - for Earth(er) Humans - For EXtreme Conditions)
 
-*__TOUvwlTIEG__ (The Omniversal-Universal verbal&written-language Translation Interface Engine Gadget)
+__TOUvwlTIEG__ (The Omniversal-Universal verbal&written-language Translation Interface Engine Gadget)
 
 *AEUFOAPMHT-DB* (Aliens, Extraterrestrials, UFOs, Anomalous Phenomena, Materials, and High-Tech - DataBase of Classification Names List&Descriptions&Reports)
 
