@@ -13,6 +13,8 @@ Past projects by sahwar:
 * __BFAndroidBULBG+qwerty+U+UHWR+MLUOCRscan-KL__ (The Best Fucking Bulgarian-language+QWERTY+UnicodeIME+Unicode-HandWritingRecognition+MultiLingual-OpticalCharacterRecognitionSCANNER-IME Keyboard Layout for Google Androis OS v4.4+)
 * etc.
 
+__RELE//RLEE__ (Real Emulational Life Engine//Real-Life Emulation Engine, an AR/VR/Internet-Web interface protocol for FULL simulation of the whole (physical) Universe (or selected subportions thereof) - for running experiments&testing the behavior of infinite variables/factors interacting in THE ALL (of Hermeticsm/Hermetism))
+
 *LSG (Light-Speed Generator)*
 
 *ULSU*-EH-XC (Universal Life-Support Unit - for Earth(er) Humans - For EXtreme Conditions)
