@@ -2,6 +2,8 @@
 
 Past projects by sahwar:
 
+* https://github.com/sahwar/Pixelka
+
 *bulogos.info*:
 * __BLSG__ (The Unofficial __Bulgarian-language__ ___Style___
 (&Formatting) ___Guide___)
